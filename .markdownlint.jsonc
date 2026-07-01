@@ -1,0 +1,10 @@
+{
+  // Markdown lint configuration for the Windows Operations Manual Blueprint.
+  //
+  // MD060 (table-column-style) is disabled to match this project's documented
+  // Markdown convention of compact tables (single-space cell padding). That
+  // convention is the one used by the workspace Markdown instructions and by the
+  // existing docs/operations-manual-best-practices.md reference. Enable MD060 if
+  // the project later decides to adopt fully aligned tables everywhere.
+  "MD060": false
+}
