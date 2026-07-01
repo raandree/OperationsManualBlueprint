@@ -24,6 +24,8 @@ Chronological log of shipped work. Latest entries first.
   (`https://github.com/raandree/OperationsManualBlueprint.git`) and reset the
   repository to a single root commit on `main` (prior history squashed; not
   pushed).
+- Stopped tracking `.memory-bank/promptHistory.md` and added it to `.gitignore`
+  so the prompt log stays local.
 
 ## What works
 

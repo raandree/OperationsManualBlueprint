@@ -23,6 +23,8 @@ script that renders each edition to DOCX and PDF.
   3.9 and LibreOffice produce the DOCX and PDF.
 - Added the `origin` remote for GitHub and reset history to a single root commit
   on `main` (not pushed).
+- Untracked `.memory-bank/promptHistory.md` and added it to `.gitignore` (kept
+  local).
 
 ## Next steps
 

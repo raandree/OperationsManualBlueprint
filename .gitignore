@@ -4,3 +4,6 @@ dist/
 # Rendered manuals (built on demand)
 *.docx
 *.pdf
+
+# Local prompt history (kept out of version control)
+.memory-bank/promptHistory.md
